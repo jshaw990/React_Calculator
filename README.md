@@ -1,7 +1,8 @@
 # React Calculator
-    This project was created using the tutorial found here:[medium.com] (https://medium.com/@krissanawat/create-a-simple-calculator-app-in-react-742022250d8f)
+This project was created using the tutorial found here:[medium.com] (https://medium.com/@krissanawat/create-a-simple-calculator-app-in-react-742022250d8f)
 
-    "create-react-app" was used to bootstrap this project
+    "create-react-app" was used to
+    bootstrap this project
 
 ## Authors
 * Tutorial Author: [Krissanawat​ Kaewsanmuang](https://github.com/therj/react-calculator)
@@ -14,8 +15,8 @@
 * Navigate to ```http://localhost:3000```
 
 ## Dependencies
-    Immutability-helper
-    Mathjs
-    React
-    React-Dom
-    React-Scripts
+* Immutability-helper
+* Mathjs
+* React
+* React-Dom
+* React-Scripts
